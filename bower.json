@@ -1,0 +1,17 @@
+{
+    "name": "nunito-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/nunito-bower.git"
+    },
+    "description": "Nunito font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
